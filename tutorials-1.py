@@ -68,3 +68,29 @@ since x is a placeholder, we can evaluate linear_model for several values of x s
 
 print(sess.run(linear_model, {x:[1,2,3,4]}))
 
+y = tf.placeholder(tf.float32)
+squared_deltas = tf.square(linear_model-y)
+loss = tf.reduce_sum(squared_deltas) #adds all the examples up
+print(sess.run(loss, {x:[1,2,3,4], y:[0,-1,-2,-3]}))
+
+"""We could iimprove this manually by reassignign the values of W and b to be the perfect values of -1 and 1
+A variable is initialized to athe vlaue provided to tf.varaible but can be changed using operations like tf.assign.
+For example W = -1 and b =1 are the optional parameters of our model. We can change W and b accordingly"""
+
+fixW = tf.assign(W, [-1.])
+fixb = tf.assign(b, [1])
+sess.run([fixW, fixb])
+print(sess.run(loss, {x:[1, 2, 3, 4], y:[0, -1, -2, -3]}))
+
+#Above we guessed the perfect value of but hte point of machine learning is to train so that we reach there
+
+"The simplest optimizer is gradient descrent. It modifies each variable "
+
+optimizer = tf.train.GradientDescentOptimizer(0.01)
+train = optimizer.minimize(loss)
+
+sess.run(init) #reset the vaues to the incorrect values I began with
+for i in range (10000):
+    _, loss_val = sess.run([train,loss], {x:[1,2,3,4], y:[0, -1, -2, -3]})
+    print(sess.run([W, b]))
+    print('loss= %s' %loss_val)
