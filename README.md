@@ -1,2 +1,2 @@
-# tackling various challenges in artificial intelligence using deep learning 
+# Tackling various challenges in artificial intelligence using deep learning 
 
