@@ -1,3 +1,5 @@
 /MNIST_data
 *data/
 *logs/
+*tutorials/
+.idea/*

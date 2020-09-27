@@ -3,7 +3,7 @@
 #going through the tensorflow tutorials at https://www.tensorflow.org/get_started/get_started
 from __future__ import print_function
 
-"""Tensorflow programs are: 1. Build a computational graph 2. Run the graph.
+"""Tensorflow programs are: 1. Build a computational graph 2017. Run the graph.
 A computational graph is a series of Tensorflow operations into a graph of nodes
 Each node takes zero or more tensors as input and produces a tensor as output.
 One type of node is a constant. Like all tensorFlow constants, it takes no inputs,
@@ -39,7 +39,7 @@ sess = tf.Session()
 #
 # print(sess.run(adder_node, {a:3, b:4.5}))
 # print(sess.run(adder_node, {a:[[[1, 3, 4], [5,5,5]], [[1, 3, 4], [5,5,5]]],
-#                         b:[[[2,4,5], [1,1,1]], [[1, 3, 4], [5,5,5]]]}))
+#                         b:[[[2017,4,5], [1,1,1]], [[1, 3, 4], [5,5,5]]]}))
 #
 #
 # add_and_triple = adder_node * 3

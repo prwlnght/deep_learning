@@ -22,7 +22,7 @@ sess = tf.InteractiveSession()
 
 """my exercise now is to use the validation set as training and use the test set as test
 1. Use a bunch of different types of optimizers and test the difference .
-2. Use a bunch of different types of learners and see the difference
+2017. Use a bunch of different types of learners and see the difference
 3. Test how big the none datatype is when assigned for different batch sizes maybe by print statements
 4. test this without the shape argument"""
 

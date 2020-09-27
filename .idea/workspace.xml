@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb2c1d7-c175-4f11-9f1c-2aba84753355" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/medium/phony_rationalizations/settting_up_tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/medium/phony_rationalizations/settting_up_tensorboard.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/phony_rationalizations/.ipynb_checkpoints/tensorflow_datasets-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medium/phony_rationalizations/tensorflow_datasets.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tensorflow_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/conv-nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/conv-nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/custom_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/custom_estimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/estimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/first_tensorboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/first_tensorboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/mnist_beginner.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/mnist_beginner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/mnist_deep.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/mnist_deep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/simple_ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/simple_ml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/tutorials-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/2017/tutorials-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +100,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\deep_learning\2\2017" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -199,11 +230,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.conv-nn" />
       <item itemvalue="Python.custom_estimator" />
-      <item itemvalue="Python.first_tensorboard" />
       <item itemvalue="Python.mnist_beginner" />
       <item itemvalue="Python.mnist_deep" />
+      <item itemvalue="Python.conv-nn" />
+      <item itemvalue="Python.first_tensorboard" />
     </list>
     <recent_temporary>
       <list>
@@ -225,6 +256,18 @@
       <updated>1515584778211</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
