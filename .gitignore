@@ -5,3 +5,5 @@
 .idea/*
 *models/
 *logstash/
+*logs*
+*models*
