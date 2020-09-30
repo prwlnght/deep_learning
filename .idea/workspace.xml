@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb2c1d7-c175-4f11-9f1c-2aba84753355" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vision/model_interpretability.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vision/model_interpretability.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/conv-nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/conv-nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/custom_estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/custom_estimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/estimator.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/estimator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/first_tensorboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/first_tensorboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/mnist_beginner.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/mnist_beginner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/mnist_deep.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/mnist_deep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/simple_ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/simple_ml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/2017/tutorials-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/archived/2017/2017/tutorials-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vision/toons_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vision/toons_classifier.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,11 +227,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.conv-nn" />
       <item itemvalue="Python.custom_estimator" />
-      <item itemvalue="Python.first_tensorboard" />
       <item itemvalue="Python.mnist_beginner" />
       <item itemvalue="Python.mnist_deep" />
+      <item itemvalue="Python.conv-nn" />
+      <item itemvalue="Python.first_tensorboard" />
     </list>
     <recent_temporary>
       <list>
