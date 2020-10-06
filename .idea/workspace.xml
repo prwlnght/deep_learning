@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8eb2c1d7-c175-4f11-9f1c-2aba84753355" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/vision/toons_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vision/toons_classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,11 +221,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.conv-nn" />
       <item itemvalue="Python.custom_estimator" />
+      <item itemvalue="Python.first_tensorboard" />
       <item itemvalue="Python.mnist_beginner" />
       <item itemvalue="Python.mnist_deep" />
-      <item itemvalue="Python.conv-nn" />
-      <item itemvalue="Python.first_tensorboard" />
     </list>
     <recent_temporary>
       <list>
@@ -259,14 +260,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="758" y="317" key="FileChooserDialogImpl" timestamp="1601310320581">
+    <state x="758" y="317" key="FileChooserDialogImpl" timestamp="1601931537148">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state x="758" y="317" key="FileChooserDialogImpl/62.0.1858.1080/-1858.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1601310320581" />
+    <state x="758" y="317" key="FileChooserDialogImpl/62.0.1858.1080/-1858.0.1858.1080/1982.0.1858.1080@62.0.1858.1080" timestamp="1601931537148" />
     <state x="492" y="185" key="SettingsEditor" timestamp="1601015453309">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
